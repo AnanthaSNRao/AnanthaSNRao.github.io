@@ -3,8 +3,8 @@ email: anantha1996sn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my portfolio website!
 baseurl: "/" 
-url: "/" 
-twitter_username: mlhacks
+url: "https://ananthasnrao.github.io/" 
+twitter_username: SnAnantha
 github_username:  AnanthaSNRao
 
 sass:
