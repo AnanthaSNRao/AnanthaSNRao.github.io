@@ -1,0 +1,15 @@
+- title: Automatic Voice Transcriber
+  description: Coauthored a mechanism to transcribe voice recordings by the Naval Surface Warfare Center to provide feedback to tacticians as part of the Hacking for Defense program; Conducted multiple interviews to provide a comprehensive value proposition.
+  duration: SPRING 2022
+- title: Image Compression Using Machine Learning
+  description: Created a appliaction to compress the image compression is to be able to store or transmit data in an efficient form. Unsupervised Machine learning algorithms (K-means clustering algorithm) is used to compress the image. And store the compressed Image in Database.
+  duration: FALL 2021
+- title: Angular Cloudflare
+  description: Developed an angular appliaction and used cloudflare pages to deploy.
+  duration: FALL 2021
+- title: Video Super-resolution
+  description: Collaborated with a team of 3 undergraduate students to devise a deep learning model for improving video resolution frames using residual learning of CNN. The predicted video frame had a Structural Similarity Index of 0.845 on average to its high-quality video frame.
+  duration: SPRING 2018
+
+
+
