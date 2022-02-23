@@ -1,10 +1,10 @@
 <div class="card">
     {% for item in site.data.fellows %}
         <div class="info">
-            <p class="firstname"> {{ item.firstname }}</p>
-            <p class="lastname"> {{ item.lastname }}</p>
+            <p class="firstname"> {{ item.firstname }} {{ item.lastname }}</p>
             <p class="location"> {{ item.location }}</p>
             <p class="description"> {{ item.description }}</p>
+            <p class="about"> {{ item.about }}</p>
         </div>
 {% endfor %}
 </div>
