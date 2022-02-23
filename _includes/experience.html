@@ -3,10 +3,11 @@
     {% for item in site.data.experience %}
       <div class="card">
         <div class="info">
-          <p class="role">{{ item.role }}</p>
+          <p class="title">{{ item.role }}</p>
           <p class="company">{{ item.company }}</p>
           <p class="description"> {{ item.description }} </p>
           <p class="dates">{{ item.dates }}</p>
+          <img src="./assets/img/experience{{ item.logo }}">
         </div>
       </div>
     </a>

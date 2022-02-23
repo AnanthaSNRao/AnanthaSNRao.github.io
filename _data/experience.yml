@@ -1,12 +1,18 @@
 - role: Senior Software Engineer
   company: Accolite Digital India
-  dates: Jul 2018 - Jul 2021
+  dates: Aug 2019 - Jul 2021
   description: Developed a web-based graph workflow and enhanced its synchronization using Apache Kafka queuing. Involved in decision-making and design involving communicating requirements between multiple stakeholders. 
-  logo: fellowship.svg
+  logo: Accolite.png
+
+- role: Software Engineer
+  company: Accolite Digital India
+  dates: Jul 2018 - Jul 2019
+  description: Proposed a migration of data to NoSql and designed a new application module to support MongoDB. Implemented distributed cache system using Redis to reduce API calls.
+  logo: Accolite.png
 
 - role: Software Engineer Intern
   company: Accolite Digital India
   dates: Jan 2018 - Apr 2018
   description: Built backend web application to support conversion of complex unstructured data with interdependency to present structured Data to help consumers create a workflow.
-  logo: fellowship.svg
+  logo: Accolite.png
   
